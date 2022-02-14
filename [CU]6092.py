@@ -13,3 +13,4 @@ for i in range(n) :
     
 for i in range(1, 24) :
   print(d[i], end=' ')
+
